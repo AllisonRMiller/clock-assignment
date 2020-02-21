@@ -1,0 +1,33 @@
+html{
+    background-color: black;
+    font-size: 15px;
+}
+h1 {
+    font-family: 'Simonetta', ;
+    width: auto;
+    padding: 2em;
+    background-color: rgb(0, 51, 17, .75);
+    color: white;
+    font-size: 1em;
+    text-align: center;
+}
+body {
+    float: center;
+    margin: auto;
+    margin-top: 50px;
+    width: 20%;
+    justify-content: center;
+}
+
+main {
+    padding: 2em;
+    background-color: rgb(0, 51, 17, .75);
+}
+
+div{
+    text-align: center;
+    font-size: 1.5em;
+    font-family: 'Share Tech Mono';
+    background-color: black;
+    color: white;
+}
